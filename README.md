@@ -1,0 +1,1 @@
+# G40_Dividir-e-Conquistar_PA-26.2
