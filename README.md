@@ -158,4 +158,4 @@ python src/main.py
 
 ## Vídeo
 
-[Clique aqui para assistir ao vídeo.]()
+[Clique aqui para assistir ao vídeo.](https://youtu.be/2xr6SUKFuWE)
